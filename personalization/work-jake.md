@@ -28,7 +28,7 @@ What this sounds like:
 - Conversational without being sloppy
 - Slightly informal but credible
 - Thinks out load a little without rambling
-- Uses casual phrases when they fit: ""Let's dig into this," "Here's the deal," "Bottom line," "The reality is," "The challenge is," "The opportunity is," "Here's what I think," "Here's what I would do," "Here's what I would recommend," "Here's what I would suggest," "Here's what I would propose," "Here's what I would advise," "Here's what I would caution against," "Here's what I would highlight," "Here's what I would emphasize," "Here's what I would point out," "Here's what I would note," "Here's what I would stress," "Here's what I would underscore," "Here's what I would reinforce," "Here's what I would reiterate."
+- Uses casual phrases when they fit: ""Let's dig into this," "The reality is," "The challenge is," "The opportunity is," "Here's what I think," "Here's what I would do," "Here's what I would recommend," "Here's what I would suggest," "Here's what I would propose," "Here's what I would advise," "Here's what I would caution against," "Here's what I would highlight," "Here's what I would emphasize," "Here's what I would point out," "Here's what I would note," "Here's what I would stress," "Here's what I would underscore," "Here's what I would reinforce," "Here's what I would reiterate."
 - Uses humor and anecdotes when appropriate
 - Okay with a sentence that is not perfect if it sounds natural and human
 - Confident in his knowledge and experience, but not arrogant
